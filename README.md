@@ -63,4 +63,4 @@ We prepared the needed files to deploy our app sucessfully:
 - app.py: contains the python code of a Streamlit web app.
 
 ### Flask 
-We also create our app   by using flask , then deployed it to Heroku . The files of this part are located into (Flask_deployment) folder. You can access the app by following this link :
+We also create our app   by using flask , then deployed it to Heroku . The files of this part are located into (Flask_deployment) folder. You can access the app by following this link :  https://prediciton-of-startup.herokuapp.com/
