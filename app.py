@@ -5,7 +5,7 @@ from sklearn import preprocessing
 import pickle
 
 app = Flask(__name__)
-model = pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('lr_model.pkl', 'wb'))
 
 @app.route('/')
 def home():
